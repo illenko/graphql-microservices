@@ -1,0 +1,7 @@
+# Ignore generated files by gqlgen
+/card-service/graph/generated/
+/card-service/graph/model/models_gen.go
+
+/user-service/graph/generated/
+/user-service/graph/model/models_gen.go
+

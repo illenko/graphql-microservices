@@ -1,0 +1,9 @@
+type Card {
+  id: ID!
+  card_mask: String!
+  user_id: ID!
+}
+
+type Query {
+  cards: [Card!]!
+}
